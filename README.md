@@ -29,7 +29,7 @@ Note: The dataset is used only for learning purposes.
 ---
 
 ## Data Cleaning
-The following steps were performed during data cleaning:
+During data cleaning, I performed the following steps:
 - Removed duplicate records
 - Handled missing values
 - Standardized text data
@@ -49,10 +49,10 @@ The dashboard includes:
 ---
 
 ## Key Insights
-- The production department has the highest number of employees
-- Online recruitment is the most commonly used source
-- Employee performance is affected by absences
-- Some departments show higher turnover rates
+- The production department has the highest number of employees  
+- Online applications are the main hiring source  
+- Higher absences are linked with lower performance  
+- Some departments experience higher employee turnover
 
 ---
 
@@ -81,15 +81,14 @@ Through this project, I learned:
 
 ## Project Structure
 HR-Analytics-Dashboard-Excel/
-│── Dashboard.xlsx
-│── Dataset.xlsx
-│── README.md
-│── Images/
-│   └── dashboard.png
-
+- Dashboard.xlsx
+- Dataset.xlsx
+- README.md
+- Images/
+  - dashboard.png
 ---
 
 ## About Me
 Name: Santosh
 
-This project is part of my learning journey in data analysis.
+This project is part of my journey to become a Data Analyst.
